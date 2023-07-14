@@ -1,0 +1,15 @@
+.car-box{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-family:cursive;
+    font-weight: 700;
+   }
+  .car-item{
+    background-color: lightgrey;
+    width: 15rem;
+    border: 2px solid rgb(88, 86, 86);
+    border-radius:5%;
+    margin: 2%;
+  }
